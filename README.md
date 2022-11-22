@@ -22,5 +22,5 @@ In this exploratory data analysis project we will insights from Flight Price dat
 9 - Tariff on Individual Days
 10 - Peak Hour for Departure
 11 - Peak Hour for Arrival
-12 - Peak Hour in terms of Tarrif
+12 - Peak Hour in terms of Tarriff
 13 - Pairplotting Cities with other variables
