@@ -2,7 +2,7 @@
 
 In this exploratory data analysis project we will insights from Flight Price dataset. We will gain incredible insights from their distribution and classifications.
 
-**Source of dataset:** [Link to the dataset](https://www.kaggle.com/code/santhossshhh13/exploratory-data-analysis-on-flight-price-data)
+**Source of dataset:** [Link to the dataset](https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset)
 
 ### Tasks and techniques used:
 
