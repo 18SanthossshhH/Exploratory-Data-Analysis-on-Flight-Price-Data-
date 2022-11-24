@@ -12,15 +12,27 @@ In this exploratory data analysis project we will insights from Flight Price dat
 
 ## Visualizations and conclusions derived
 1 - Top Carriers by No of Flight
-2 - Distribution of Ticket Prices 
+
+2 - Distribution of Ticket Prices
+
 3 - Histogram of Ticket Prices
+
 4- Busiest Air Routes in the DataSet 
+
 5 - Airports with Most no of Departure
+
 6 - Frequent Destination
+
 7 - Peak Day of the Month
+
 8 - Tariff on Individual Days
+
 9 - Tariff on Individual Days
+
 10 - Peak Hour for Departure
+
 11 - Peak Hour for Arrival
+
 12 - Peak Hour in terms of Tarriff
+
 13 - Pairplotting Cities with other variables
